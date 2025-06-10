@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Mahesh Sharma</h1>
 
-<!--
-**Mahesh3317/Mahesh3317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🌐 Frontend Developer | 💻 React.js Specialist | 🚀 Passionate about Travel & Tech | 🏞️ Building Dandeli Resort Booking Experience
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 A little about me...
+
+```js
+const maheshSharma = {
+  lookingFor: 'Frontend Developer' || 'React Developer',
+  currentFocus: 'Creating a modern resort booking site for Dandeli',
+  learning: ['Strapi CMS', 'MongoDB', 'Node.js'],
+  hobbies: ['Traveling', 'UI/UX Design', 'Adventure Planning'],
+  techLove: ['React', 'CSS Animations', 'JavaScript'],
+};
