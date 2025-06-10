@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm Mahesh Sharma</h1>
 
 <p align="center">
-🌐 Frontend Developer | 💻 React.js Specialist | 🚀 Passionate about Travel & Tech | 🏞️ Building Dandeli Resort Booking Experience
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=React+Frontend+Developer;Building+clean+and+modern+web+UIs;Focused+on+Dandeli+travel+projects" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,9 +12,9 @@
 
 ```js
 const maheshSharma = {
-  lookingFor: 'Frontend Developer' || 'React Developer',
-  currentFocus: 'Creating a modern resort booking site for Dandeli',
-  learning: ['Strapi CMS', 'MongoDB', 'Node.js'],
-  hobbies: ['Traveling', 'UI/UX Design', 'Adventure Planning'],
-  techLove: ['React', 'CSS Animations', 'JavaScript'],
+  lookingFor: 'Frontend Developer',
+  currentFocus: 'Developing a Resort Booking UI using React & Strapi',
+  learning: ['Node.js', 'Strapi CMS', 'MongoDB'],
+  hobbies: ['Travel UI design', 'Creating booking workflows'],
+  technologies: ['React', 'JavaScript', 'CSS3'],
 };
